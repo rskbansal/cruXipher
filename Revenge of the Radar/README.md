@@ -1,4 +1,4 @@
-We decompiled the given file to C code, and upon examining we saw that the passkey requires 3 characters (and a terminating \0 at the end).
+We decompiled the [given file](./chall) to C code, and upon examining we saw that the passkey requires 3 characters (and a terminating \0 at the end).
 
 We wrote a [simple script](./genpwd.py) to bruteforce the passkey
 
