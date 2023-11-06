@@ -14,4 +14,4 @@ We open vim and type in `:!bash` to run another instance of the bash terminal wi
 $ cat flag.txt
 ```
 
-Flag: **cruX{17_d1d_n07_h4pp3n_b3c4u53_1_541d_50}**
+Flag: `cruX{17_d1d_n07_h4pp3n_b3c4u53_1_541d_50}`

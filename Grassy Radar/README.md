@@ -10,5 +10,5 @@ Using some basic maths we are able to find the ASCII values for these characters
 
 The program prompts a max 20 character input, exceeding which gave the flag.
 
-Flag: **cruXipher{0n1y_w34k11n65_u53_c41cu1470r5}**
+Flag: `cruXipher{0n1y_w34k11n65_u53_c41cu1470r5}`
 

@@ -15,5 +15,5 @@ $ df -hT
 
 After which we got a file `/dev/loop0` correlated with this mount. We read the file’s contents using cat and found the flag.
 
-Flag: **cruXipher{1tal1an-p4st4-w3ch}**
+Flag: `cruXipher{1tal1an-p4st4-w3ch}`
 
