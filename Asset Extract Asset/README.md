@@ -4,7 +4,7 @@ The files have a code with a passphrase "ChatGPT" and the comments hint towards 
 
 This is a database file and you can use a [database browser](https://sqlitebrowser.org/) to view the file.
 
-There is a base64 string. Decoding it to an image gives you the ![flag](./Flag.png)
+There is a base64 string. Decoding it to an image gives you ![flag](./Flag.png)
 
 
 
