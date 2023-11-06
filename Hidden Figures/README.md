@@ -6,4 +6,4 @@ Opening up the file in Audacity and Looking at it under a spectrogram reveals th
 
 [Flag](./Flag.png)
 
-Flag : cruXipher{w3_4r3_3mp1r3}
+Flag : `cruXipher{w3_4r3_3mp1r3}`
