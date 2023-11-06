@@ -1,6 +1,6 @@
 # Grassy Radar
 
-We decompiled the given file to C code, and upon examining we saw that the passkey requires 6 characters.
+We decompiled the [given file](./chall) to C code, and upon examining we saw that the passkey requires 6 characters.
 
 Using some basic maths we are able to find the ASCII values for these characters and therefore the passkey: **aIrXyG**
 
