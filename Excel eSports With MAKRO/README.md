@@ -1,6 +1,6 @@
 # Excel eSports with MAKRO
 
-We're given an excel sheet, with a vbaProject.bin file embedded in it.
+We're given an excel sheet, with a [vbaProject.bin](./_makro.xlsm.extracted/xl/vbaProject.bin) file embedded in it.
 
 Extract it and use [oletools](https://github.com/decalage2/oletools/) to rev the file.
 
