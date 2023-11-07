@@ -1,6 +1,10 @@
 # Holocaust Deniers
 
 ```
+The Holocaust and Slavery deniers have hidden their most powerful card in a shell built in their own image.
+
+Can you use their tricks against them to win the day?
+
 nc 103.177.232.41 5008
 ```
 

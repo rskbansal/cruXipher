@@ -1,6 +1,8 @@
 # Grassy Radar
 
 ```
+When you are outside on your monthly grass-touching session (vitamin D deficiency is not a joke), you see a small dirt mound under a tree to your left. The mound seems too big for a herd of insects to make, which intrigues you greatly. As you carefully approach it, you see a shiny metallic thing sticking out. When you pull it out of the dirt, you realise that it is a USB with an address written on the back. You sigh and realise (not unhappily) that today's grass touching session is over. The flag is in the format cruXipher{<flag>}
+
 nc 103.177.232.41 5004
 ```
 
