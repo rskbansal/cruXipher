@@ -1,3 +1,5 @@
+# Revenge of the Radar
+
 ```
 nc 103.177.232.41 5003
 ```
@@ -14,4 +16,7 @@ Initially our exploits failed, however upon learning about socat, we find out th
 
 We run [our new exploit](./exploit.py) and get the flag.
 
-Flag: `cruXipher{fr0m_k3y804rd_m45h1n6_70_574ck_5m45h1n6}`
+## Flag
+```
+cruXipher{fr0m_k3y804rd_m45h1n6_70_574ck_5m45h1n6}
+```

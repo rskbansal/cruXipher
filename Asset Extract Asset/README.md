@@ -8,4 +8,7 @@ There is a base64 string. Decoding it to an image gives you ![flag](./Flag.png)
 
 
 
-Flag : `cruXipher{y0ur_f1r3d}`
+## Flag
+```
+cruXipher{y0ur_f1r3d}
+```

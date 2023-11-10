@@ -6,4 +6,7 @@ Extract it and use [oletools](https://github.com/decalage2/oletools/) to rev the
 
 We get the ASCII character codes in the flag, and we can reconstruct the flag using that.
 
-Flag: `cruXipher{CUR53_Y0U_V1K4S}`
+## Flag
+```
+cruXipher{CUR53_Y0U_V1K4S}
+```

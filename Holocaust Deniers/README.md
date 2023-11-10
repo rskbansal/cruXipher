@@ -1,12 +1,5 @@
 # Holocaust Deniers
 
-```
-The Holocaust and Slavery deniers have hidden their most powerful card in a shell built in their own image.
-
-Can you use their tricks against them to win the day?
-
-nc 103.177.232.41 5008
-```
 
 We connect to the limited remote shell, and notice that most common commands are blocked.
 
@@ -18,4 +11,7 @@ We open vim and type in `:!bash` to run another instance of the bash terminal wi
 $ cat flag.txt
 ```
 
-Flag: `cruX{17_d1d_n07_h4pp3n_b3c4u53_1_541d_50}`
+## Flag
+```
+cruX{17_d1d_n07_h4pp3n_b3c4u53_1_541d_50}
+```

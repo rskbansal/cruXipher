@@ -8,4 +8,7 @@ We use the code found [here](https://github.com/jvdsn/crypto-attacks/blob/master
 
 Searching for 'cruXipher' in that file yields the flag.
 
-Flag : `cruXipher{RS4?_M0re_1!ke_4RSe}`
+## Flag
+```
+cruXipher{RS4?_M0re_1!ke_4RSe}
+```
