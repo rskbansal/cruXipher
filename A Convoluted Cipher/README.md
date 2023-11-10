@@ -10,4 +10,7 @@ You may refer to this [script](./solve.py)
 > [!NOTE]
 > We had a tough time reading the content of the image
 
-Flag : `cruXipher{s4r64uk4r_r3nd3zvou5_145oh}`
+## Flag
+```
+cruXipher{s4r64uk4r_r3nd3zvou5_145oh}
+```
