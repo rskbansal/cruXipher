@@ -21,8 +21,6 @@ TODO:
 
     Strummin' and Summin'
 
-    Sweeping Crop Failure
-
     The Strongest RSA
 
     Uncover the Password
