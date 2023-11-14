@@ -23,8 +23,6 @@ TODO:
 
     Sweeping Crop Failure
 
-    Taking the X out of Twitter
-
     The Strongest RSA
 
     Uncover the Password
