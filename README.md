@@ -15,8 +15,6 @@ TODO:
 
     Move It!
 
-    Sasta Sherlock
-
     Solitary Confinement
 
     Strummin' and Summin'
