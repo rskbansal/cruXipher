@@ -1,8 +1,8 @@
 # Sasta Sherlock
 
-Closely inspecting the image, you can see a 7-Eleven logo, some writing in Chinese, and a sign of Temple Street (which is in Hong Kong).
+In this image, you can see a 7-Eleven logo, some writing in Chinese, and a sign of Temple Street (which is in Hong Kong).
 
-Searching ‘7-eleven employee stabbing hong kong’ and scrolling through the images leads us to this website:
+Searching 'Hong Kong Stabbing 7-eleven employee temple street' and scrolling through the images leads us to these websites:
 
 [https://coconuts.co/hongkong/news/victim-7-11-stabbing-yau-ma-tei-dies-injuries-case-reclassified-murder/](https://coconuts.co/hongkong/news/victim-7-11-stabbing-yau-ma-tei-dies-injuries-case-reclassified-murder/)
 
