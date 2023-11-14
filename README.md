@@ -5,8 +5,6 @@ TODO:
 
     Anor Londo Unveiled
 
-    Birdwatching
-
     Canine Curiosities
 
     Crack App Code
@@ -16,8 +14,6 @@ TODO:
     Move It!
 
     Solitary Confinement
-
-    Strummin' and Summin'
 
     The Strongest RSA
 
