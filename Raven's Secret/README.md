@@ -7,4 +7,5 @@ Use the passkey with steghide on the provided image file. Decode the resultant c
 Hex -> base64 -> base85
 
 ## Flag
-`cruXipher{h0n3st9_pr0t3ects}`
+
+    cruXipher{h0n3st9_pr0t3ects}
