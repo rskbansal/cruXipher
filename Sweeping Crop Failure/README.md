@@ -6,7 +6,7 @@ Get the hex data from the pcapng file:
 tshark -T fields -e data.text -o data.show_as_text:TRUE -r capture.pcapng
 ```
 
-This gives a [ppm file](./image.ppm), with variable height and width.
+This gives a [pbm file](./data.pbm), with variable height and width.
 
 We tinker around with these dimensions but to no avail.
 
