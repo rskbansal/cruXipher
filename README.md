@@ -17,8 +17,6 @@ TODO:
 
     Uncover the Password
 
-    Untitled Teleportation Game
-
     Wich Pleasn't
 
     tuXipher
