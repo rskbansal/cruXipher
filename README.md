@@ -15,8 +15,6 @@ TODO:
 
     The Strongest RSA
 
-    Sweeping Crop Failure: ADD PPM FILE
-
     Uncover the Password
 
     Untitled Teleportation Game
