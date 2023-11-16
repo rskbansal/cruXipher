@@ -3,8 +3,6 @@ Solutions to cruXipher CTF 2023
 
 TODO:
 
-    Anor Londo Unveiled
-
     Canine Curiosities
 
     Crack App Code
