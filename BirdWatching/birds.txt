@@ -1,7 +1,0 @@
-mockingbird (starling blackbird (starling kestrel kestrel))
-starling blackbird (starling kestrel kestrel)
-.
-mockingbird ((cardinal (dove starling queer)) (starling kestrel kestrel))
-mockingbird ((cardinal (owl starling blackbird)) (starling kestrel kestrel))
-blackbird (starling kestrel kestrel)
- 
