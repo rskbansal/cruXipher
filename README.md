@@ -18,3 +18,8 @@ TODO:
     Uncover the Password
 
     Wich Pleasn't
+
+
+INCOMPLETE:
+
+    Asset Extract Asset

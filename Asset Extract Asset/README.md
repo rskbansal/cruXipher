@@ -4,8 +4,9 @@ The files have a code with a [passphrase "ChatGPT"](./asset_extract_asset/app/sr
 
 This is a database file and you can use a [database browser](https://sqlitebrowser.org/) to view the file.
 
-There is a base64 string. Decoding it to an image gives you ![flag](./Flag.png)
+There is a base64 string. Decoding it, we get an image with the flag.
 
+![](./flag.png)
 
 
 ## Flag
