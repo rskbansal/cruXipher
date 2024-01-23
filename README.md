@@ -5,8 +5,6 @@ TODO:
 
     Canine Curiosities
 
-    Crack App Code
-
     Log Crisis
 
     Move It!
