@@ -5,8 +5,6 @@ TODO:
 
     Canine Curiosities
 
-    Log Crisis
-
     Move It!
 
     Solitary Confinement
