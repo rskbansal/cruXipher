@@ -7,7 +7,7 @@
     ```
   $ curl -H "user-agent:cux" -H "token:fec62644-6db3-11ee-a34a-505bc2eeff4f" https://canine-curiosities.vercel.app/fact
     ```
-- Got the following result:
+- Got the following result :
     ```
     {"fact":"cruXipher{m0n15h4_f0R_pR0m_qV33n}"}
     ```
