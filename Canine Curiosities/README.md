@@ -1,5 +1,5 @@
 # Canine Curiosities
-- Used dirsearch on [url](https://canine-curiosities.vercel.app) to find [url](https://canine-curiosities.vercel.app/app.js)  .
+- Used dirsearch on url: https://canine-curiosities.vercel.app to find [url/app.js](https://canine-curiosities.vercel.app/app.js)  .
 
 - Found token from [url/forget](https://canine-curiosities.vercel.app/forget) and then uses 'cux' as username to retrieve flag from [url/fact](https://canine-curiosities.vercel.app/fact)
 
