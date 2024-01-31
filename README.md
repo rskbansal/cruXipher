@@ -7,8 +7,6 @@ TODO:
 
     Crack App Code
 
-    Log Crisis
-
     Move It!
 
     Solitary Confinement
