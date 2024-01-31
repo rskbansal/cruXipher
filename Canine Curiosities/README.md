@@ -1,7 +1,7 @@
 # Canine Curiosities
 - Used dirsearch on url: https://canine-curiosities.vercel.app to find [url/app.js](https://canine-curiosities.vercel.app/app.js)  .
 
-- Found token from [url/forget](https://canine-curiosities.vercel.app/forget) and then uses 'cux' as user-agent to retrieve flag from [url/fact](https://canine-curiosities.vercel.app/fact) .
+- Found the token from [url/forget](https://canine-curiosities.vercel.app/forget) and then used 'cux' as user-agent to retrieve flag from [url/fact](https://canine-curiosities.vercel.app/fact) .
 
 - Used the following command in terminal :
     ```
