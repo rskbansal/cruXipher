@@ -3,5 +3,5 @@ On one of the pages we get the flag.
 
 ## Flag
 ```
-    cruXipher{l1f3-15-90od}
- ```
+cruXipher{l1f3-15-90od}
+```
