@@ -5,8 +5,6 @@ TODO:
 
     Canine Curiosities
 
-    Crack App Code
-
     Move It!
 
     Solitary Confinement
