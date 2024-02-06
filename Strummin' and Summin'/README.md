@@ -8,15 +8,15 @@ add = \m n -> m succ n
 main = add
 ```
 
-output: `s(skk)(k(s(s(ks)k)))`
+Output : `s(skk)(k(s(s(ks)k)))`
 
-This is the program for adding two church numerals together.
+- This is the program for adding two church numerals together.
 
-take this output in SK compbinator form and convert S's to A's and K's to E's as specified in the challenge to get the required expression.
+- Take this output in SK compbinator form and convert S's to A's and K's to E's as specified in the challenge to get the required expression.
 
-giving, `A(AEE)(E(A(A(EA)E)))`
+Giving, `A(AEE)(E(A(A(EA)E)))`
 
-Submit the expression to the program to get the flag.
+- Submit the expression to the program to get the flag.
 
 ## Flag
 ```
