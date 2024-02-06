@@ -4,7 +4,7 @@ def attack(ct1, ct2, e1, e2, N):
     s1 = pow(e1, -1, e2)
     s2 = (gcd(e1, e2) - e1 * s1) // e2
     temp = pow(ct2, -1, N)
-    m1 = pow(ct1,s1, N)
+    m1 = pow(ct1, s1, N)
     m2 = pow(temp, -s2, N)
     return (m1 * m2) % N
 
