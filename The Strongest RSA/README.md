@@ -5,7 +5,7 @@
 
 $$
 \begin{align*}
-enc\_a &= (flag\_int^{e1}\mod n)^{e2} \mod n \\\\
+enc\_a &= (flag\_int^{e1}\mod n)^{e2} \mod n \\\\\\
 enc\_a &= flag\_int^{e1*e2} \mod n
 \end{align*}
 $$
