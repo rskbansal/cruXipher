@@ -9,3 +9,11 @@
   
   $enc\\_b = (flag\\_int^{e1}\\mod n)*(flag\\_int^{e2}\\mod n)$<br>
   $enc\\_b\\mod n = flag\\_int^{e1+e2}\\mod n$
+
+- This is a simple common modulus attack with ciphertexts - $enc\_a$ & $(enc\_b\mod n)$ and public exponents - $(e1*e2)$ & $(e1+e2)$
+- On running the `solve.py` script, we get the flag!
+
+## Flag
+```
+cruXipher{X11_w@s_@_cr0N_j0b}
+```
