@@ -1,21 +1,6 @@
 # cruXipher
-Solutions to cruXipher CTF 2023
+Solutions to cruXipher 2023 held by BITS Pilani, Hyderabad Campus during their annual tech fest - `ATMoS`
 
-TODO:
-
-    Canine Curiosities
-
-    Move It!
-
-    Solitary Confinement
-
-    The Strongest RSA
-
-    Uncover the Password
-
-    Wich Pleasn't
-
-
-INCOMPLETE:
-
-    Asset Extract Asset
+CTFtime : https://ctftime.org/event/1616<br>
+Team name : `BITSkrieg`<br>
+Rank : #1
