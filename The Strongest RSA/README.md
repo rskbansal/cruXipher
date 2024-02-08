@@ -11,7 +11,7 @@
   $enc\\_b\\mod n = flag\\_int^{e1+e2}\\mod n$
 
 - This is a simple common modulus attack with ciphertexts - $enc\\_a$ & $(enc\\_b\mod n)$ and public exponents - $(e1*e2)$ & $(e1+e2)$
-- On running the [`solve.py`](./solve.py) script, we get the flag!
+- On running the [`solve.py`]([./solve.py](https://github.com/rskbansal/cruXipher/blob/main/The%20Strongest%20RSA/solve.py)https://github.com/rskbansal/cruXipher/blob/main/The%20Strongest%20RSA/solve.py) script, we get the flag!
 
 ## Flag
 ```
